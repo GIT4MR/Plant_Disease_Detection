@@ -42,3 +42,5 @@
 
 <h2 style="color: #f39c12;">Conclusion</h2>
 <p>This project successfully demonstrates the application of deep learning techniques to the field of plant disease detection and classification. By leveraging both CNNs and transfer learning with pre-trained models, we achieved significant improvements in accuracy and reliability.</p>
+
+![Plant Disease Detection]([https://via.placeholder.com/600x400](https://drive.google.com/file/d/1c1redFnR2xHzBHl0Ujfnw18hQ8jvbnxt/view?usp=sharing)) <!-- Replace this URL with your actual image URL -->
